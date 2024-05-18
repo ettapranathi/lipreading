@@ -1,0 +1,61 @@
+
+.App {
+  text-align: center;
+  width: 600px;
+  height:900px; 
+  margin:auto;
+  margin-top:65px;
+  border-radius: 15px;
+  background-color: rgb(114, 103, 122);
+  /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYMn9uhXJJgsYJCoIQSxkKhdWwDUyYNV5uOA&usqp=CAU); */
+  
+  
+}
+.Input{
+  text-align: center;
+  padding: 50px;
+  font-size: 40px;
+  color:rgb(60, 48, 96);
+}
+input{
+  font-size: 25px;
+  padding-left: 100px;
+  color: black;
+}
+button{
+  margin-top: 100px;
+  font-size: 25px;
+  text-align: center;
+  color: black;
+  cursor: pointer;
+  
+}
+button:hover{
+  background-color:darkseagreen;
+}
+.Video{
+  text-align: center;
+}
+.output{
+  text-align: center;
+  /* padding: 50px; */
+  font-size: 40px;
+  color:rgb(60, 48, 96);
+}
+p{
+  text-align: center;
+  width: 400px;
+  height:75px;  
+  padding-top: 30px;
+  margin:auto;
+  margin-top:6px;
+  border-radius: 10px;
+  background-color: darkgray;
+  font-size: 25px;
+  color: black;
+  resize:vertical;
+}
+
+
+
+
